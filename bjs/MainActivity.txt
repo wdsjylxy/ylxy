@@ -1,0 +1,4 @@
+
+                intent.putExtra("yhm", yhm1.getText().toString());
+                intent.putExtra("mm", mm1.getText().toString());
+                startActivity(intent);
